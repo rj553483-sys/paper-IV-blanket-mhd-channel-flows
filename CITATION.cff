@@ -1,18 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this software or simulation data, please cite it as below."
+message: "If you use this software or research, please cite it as below."
 authors:
   - family-names: "Rasmussen"
     given-names: "Jacob James"
-    orcid: "0009-0009-7084-6523"
-title: "Shercliff-Hartmann Magnetohydrodynamic Velocity Profiles and Pressure Drop Characteristics in Liquid Metal Divertor Channels"
-version: 1.0.0
-date-released: 2026-10-28
-preferred-citation:
-  type: article
-  authors:
-    - family-names: "Rasmussen"
-      given-names: "Jacob James"
-      orcid: "0009-0009-7084-6523"
-  title: "Shercliff-Hartmann Magnetohydrodynamic Velocity Profiles and Pressure Drop Characteristics in Liquid Metal Divertor Channels"
-  journal: "Fusion Engineering and Design"
-  year: 2026
+    orcid: "https://orcid.org/0009-0009-7084-6523"
+title: "paper-IV-blanket-mhd-channel-flows"
+version: "1.0.0"
+date-released: 2026-10-29
