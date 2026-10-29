@@ -1,0 +1,17 @@
+{
+    "target_journal": "Fusion Engineering and Design",
+    "publishing_model": "Traditional No-Fee Subscription Publishing Model",
+    "author": "Jacob James Rasmussen",
+    "orcid": "0009-0009-7084-6523",
+    "hartmann_number_Ha": 500.0,
+    "interaction_parameter_N": 1250.0,
+    "half_channel_width_a_m": 0.1,
+    "magnetic_field_B0_T": 10.0,
+    "hartmann_boundary_layer_thickness_mm": 0.2,
+    "mhd_pressure_drop_gradient_MPa_m": 0.9901,
+    "bulk_velocity_u0_m_s": 1.0,
+    "liquid_metal": "Pb-17Li",
+    "fluid_density_kg_m3": 9300.0,
+    "electrical_conductivity_S_m": 1000000.0,
+    "dynamic_viscosity_Pa_s": 0.001
+}
